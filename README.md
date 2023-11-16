@@ -43,3 +43,4 @@ Voivodeship - Created Voivodeship values.
 
 City - Created City values.
 
+![Dashboard Tableau](https://github.com/Amrah-Hasanov/Otodom.pl-Web-Scraping/assets/145210183/07b993b1-0090-4c3f-af58-0f2dea76c47a)
