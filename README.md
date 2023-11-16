@@ -4,7 +4,7 @@
 
 Web scraping real estate data from Otodom.pl (Online Polish real estate advertising website).
 
-In this web scraping project, I have scraped real estate data (particularly Flat listings) from an online Polish real estate advertising website Otodom.pl.
+In this web scraping project, I have scraped real estate data (particularly flat listings) from an online Polish real estate advertising website Otodom.pl.
 The code consits of mainly two parts: 
 1. Defining fuctions for extracting the properties of listings that needs to be scraped. 
 2. The request part, where I defined the headers, URL and add a scraping loop.
