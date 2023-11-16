@@ -1,7 +1,8 @@
 # Otodom.pl Web Scraping
-Web scraping real estate data from Otodom.pl (Online Polish real estate advertising website).
 
 ![fb-image200x200](https://github.com/Amrah-Hasanov/Otodom.pl-Web-Scraping/assets/145210183/405556a8-f06c-4693-a8b3-e739dfd444fb)
+
+Web scraping real estate data from Otodom.pl (Online Polish real estate advertising website).
 
 In this web scraping project, I have scraped real estate data (particularly Flat listings) from an online Polish real estate advertising website Otodom.pl.
 The code consits of mainly two parts: 
