@@ -45,4 +45,5 @@ City - Created City values.
 
 ![Picture1](https://github.com/Amrah-Hasanov/Otodom.pl-Web-Scraping/assets/145210183/35a71b1f-df08-4853-ace7-2ca749760fe2)
 
+You can find the visualisation of the collected data from my Tableau public account:
 https://public.tableau.com/app/profile/amrah.hasanov/viz/FlatPricesinPoland/Dashboard1?publish=yes
